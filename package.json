@@ -17,7 +17,7 @@
         "vite": "^4.0.0"
     },
     "scripts": {
-    "build": "[my-framework] build --output public"
+    "build": "[laravel] build --output public"
   }
 }
 }
